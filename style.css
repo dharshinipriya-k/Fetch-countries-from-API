@@ -1,0 +1,32 @@
+body {
+  background-color: lavender !important;
+}
+.container {
+  display: flex !important;
+  flex-direction: row !important;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  justify-content: center;
+}
+.card {
+  margin-top: 30px;
+  margin-left: 30px;
+  height: 300px;
+  width: 300px;
+  border: 2px solid sienna !important;
+  background-color: slateblue !important;
+  color: whitesmoke !important;
+}
+.card-header {
+  height: 100px;
+  color: indigo !important;
+  background-color: lightsteelblue !important;
+}
+
+button {
+  background-color: tomato !important;
+}
+
+.card-img-top {
+  height: 200px;
+}

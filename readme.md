@@ -1,0 +1,1 @@
+This repo includes project on fetching weather for an input country from an api.
