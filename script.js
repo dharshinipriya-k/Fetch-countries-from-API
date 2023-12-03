@@ -10,7 +10,7 @@ result
       const display = document.createElement("div");
       main.append(display);
 
-      display.innerHTML = `<div class="row row-cols-1 row-cols-md-4">
+      display.innerHTML = `<div class="row">
         <div class="col">
         <div class="card">
         <h1 class=" card-header" id="title">
